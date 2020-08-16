@@ -1,0 +1,52 @@
+{
+  "short_name": "XT",
+  "name": "DWT test",
+  "gcm_sender_id": "80837036895",
+  "theme_color": "#1b293a",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "ser/icons/Icon-32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "ser/icons/Icon-72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "ser/icons/Icon-96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "ser/icons/Icon-128.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "ser/icons/Icon-152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "ser/icons/Icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "ser/icons/Icon-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "ser/icons/Icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/"
+}
